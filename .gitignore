@@ -1,0 +1,32 @@
+# Mac
+.DS_Store
+
+### php
+vendor/
+composer.phar
+.phpunit.cache
+
+# Unit test / coverage report
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+*.mocha/
+reports/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.cache
