@@ -1,5 +1,5 @@
 {
-  "name": "stegano/panther",
+  "name": "pixel/hunt",
   "require": {
     "php": ">=8.1",
     "pestphp/pest": "v4.1.3",

@@ -1,0 +1,17 @@
+{
+  "name": "steganography",
+  "version": "1.0.0",
+  "description": "Chapitre 20 — La Panthère des Neiges",
+  "dependencies": {
+    "jimp": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.4.6",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
